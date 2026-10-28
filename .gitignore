@@ -1,0 +1,12 @@
+# Never commit raw inventory output, keys or env files
+inventory-*/
+*.pem
+*.ppk
+*.key
+*.csv
+.env
+*.env
+!*.env.example
+*.dump
+*.tfstate*
+.terraform/
