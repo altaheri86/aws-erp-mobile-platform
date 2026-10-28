@@ -88,6 +88,10 @@ Also: Ubuntu 24.04 · Nginx · Let's Encrypt · Odoo 18 · PostgreSQL logical re
 
 Based on a real production environment. Company names, hostnames, domains, IP addresses, account IDs, resource IDs and credentials have been removed or replaced with generic names. Sizes and instance types are real.
 
+## Author
+
+**Mohamed Alshaibani**, Senior DevOps Engineer: [github.com/altaheri86](https://github.com/altaheri86)
+
 ## License
 
 [MIT](LICENSE)
